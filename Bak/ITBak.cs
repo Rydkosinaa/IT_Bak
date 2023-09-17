@@ -62,8 +62,6 @@ namespace Bak
             }
             pumpe.Text = "0";
         }
-
-     
     }
 
     class Bak
